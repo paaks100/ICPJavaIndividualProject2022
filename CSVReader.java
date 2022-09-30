@@ -118,7 +118,7 @@ public class CSVReader {
 	        
 	        //store each airline object in airlinelist
 	        airlinelist.add(airline1);
-	        System.out.println(airlinelist.toString());
+	        //System.out.println(airlinelist.toString());
 	        //System.out.println(airline1.toString());
 	      }
 	      myReader.close();
