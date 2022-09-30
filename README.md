@@ -1,1 +1,0 @@
-# ICPJavaIndividualProject2022
